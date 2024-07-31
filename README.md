@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Byson94
+- 👀 I’m interested in "Game development"
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: Byson94@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I use GDevelop for game development.
