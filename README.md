@@ -11,9 +11,9 @@ All creations are open-source and you can see them in my profile!
 
 ### What I am Working On:
 <a href="https://github.com/Byson94/KorvaqScrip">
-    <img src="https://github.com/user-attachments/assets/ac576f1c-fbbe-4ea7-86b6-b8deebb0613b" alt="korvaqscrip-logo" width="50">
+    <img src="https://github.com/user-attachments/assets/ac576f1c-fbbe-4ea7-86b6-b8deebb0613b" alt="korvaqscrip-logo" width="40" style="border-radius: 80px;">
 </a>
 
 <a href="https://github.com/Byson94/AetherLexLib_JS">
-    <img src="https://github.com/user-attachments/assets/678b84ba-4de8-4bb1-8c5b-da77166ae76b" alt="Aether" width="50">
+    <img src="https://github.com/user-attachments/assets/678b84ba-4de8-4bb1-8c5b-da77166ae76b" alt="Aether" width="40" style="border-radius: 80px;">
 </a>
