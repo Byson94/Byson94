@@ -6,5 +6,14 @@
 I like to contribute to other's and would love to get contributions for my creations.
 All creations are open-source and you can see them in my profile!
 
-## Languages I Use:
-![languages](https://github.com/user-attachments/assets/f4875f27-0472-419d-bdd1-0ef06d785a60)
+### Languages I Use:
+<img src="https://github.com/user-attachments/assets/f1646e8c-89c0-4420-b012-e9af03890af5" alt="languages" width="200">
+
+### What I am Working On:
+<a href="https://github.com/Byson94/KorvaqScrip">
+    <img src="https://github.com/user-attachments/assets/ac576f1c-fbbe-4ea7-86b6-b8deebb0613b" alt="korvaqscrip-logo" width="50">
+</a>
+
+<a href="https://github.com/Byson94/AetherLexLib_JS">
+    <img src="https://github.com/user-attachments/assets/678b84ba-4de8-4bb1-8c5b-da77166ae76b" alt="Aether" width="50">
+</a>
