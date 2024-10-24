@@ -6,10 +6,10 @@
 I like to contribute to other's and would love to get contributions for my creations.
 All creations are open-source and you can see them in my profile!
 
-### Languages I Use:
+### 🌐 Languages I Use:
 <img src="https://github.com/user-attachments/assets/f1646e8c-89c0-4420-b012-e9af03890af5" alt="languages" width="200">
 
-### What I am Working On:
+### 🚀 My Projects:
 <a href="https://github.com/Byson94/KorvaqScrip">
     <img src="https://github.com/user-attachments/assets/ac576f1c-fbbe-4ea7-86b6-b8deebb0613b" alt="korvaqscrip-logo" width="40" style="border-radius: 80px;">
 </a>
