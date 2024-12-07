@@ -1,22 +1,33 @@
-## Hi, 👋 I’m @Byson94
+# 💫 About Me:
+### Hi, 👋 I’m @Byson94
 
 - I’m interested in "Game development", "Web development", "NLP/NLU/NLG", "Machine Learning" and other stuff...
 - I’m currently learning Javascript and creating my own programming language and an AI.
+
+I like to contribute to other's and would love to get contributions for my creations. All creations are open-source and you can see them in my profile!
+
+
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Byson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Byson94&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Byson94&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/byson94) 
+
   
-I like to contribute to other's and would love to get contributions for my creations.
-All creations are open-source and you can see them in my profile!
-
-### 📙 Portfolio:
-https://byson94-portfolio.onrender.com/
-
-### 🌐 Languages I Use:
-<img src="https://github.com/user-attachments/assets/f1646e8c-89c0-4420-b012-e9af03890af5" alt="languages" width="200">
-
-### 🚀 My Projects:
-<a href="https://github.com/Byson94/KorvaqScrip">
-    <img src="https://github.com/user-attachments/assets/ac576f1c-fbbe-4ea7-86b6-b8deebb0613b" alt="korvaqscrip-logo" width="40" style="border-radius: 80px;">
-</a>
-
-<a href="https://github.com/Byson94/AetherLexLib_JS">
-    <img src="https://github.com/user-attachments/assets/678b84ba-4de8-4bb1-8c5b-da77166ae76b" alt="Aether" width="40" style="border-radius: 80px;">
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
