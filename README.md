@@ -1,11 +1,8 @@
 # 💫 About Me:
 ### Hi, 👋 I’m @Byson94
 
-- I’m interested in "Game development", "Web development", "NLP/NLU/NLG", "Machine Learning" and other stuff...
-- I’m currently learning Javascript and creating my own programming language and an AI.
-
-I like to contribute to other's and would love to get contributions for my creations. All creations are open-source and you can see them in my profile!
-
+- I’m interested in "Game development", "Web development", "Machine Learning" "Ethical hacking".
+- I’m currently learning Javascript and ethical hacking.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94) 
