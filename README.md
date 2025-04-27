@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, 👋 I’m @Byson94
+### Hi, 👋 I’m Nilay (but you can call me Byson94)
 
 - I’m interested in "Game development", "Web development", "Machine Learning" "Ethical hacking".
 - I’m currently learning Javascript and ethical hacking.
