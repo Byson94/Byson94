@@ -1,8 +1,8 @@
 # 💫 About Me:
 ### Hi, 👋 I’m Nilay (but you can call me Byson94)
 
-- I’m interested in "Game development", "Web development", "Machine Learning" and "Ethical hacking".
-- I’m currently learning Javascript and ethical hacking.
+- I’m interested in Machine learning and Programming!
+- I’m currently learning python and ethical hacking.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94) 
