@@ -22,8 +22,6 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Byson94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-> ![streak](https://img.shields.io/badge/Going%20For%20The%20100%20Day%20Streak!-orange)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
