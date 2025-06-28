@@ -18,12 +18,49 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 [![Theom de](https://img.shields.io/badge/Theom%20DE-%231e1e1e.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)](https://github.com/AxOS-project/Theom/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Byson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Byson94&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Byson94&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Byson94&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Byson94&show_icons=true" />
+</picture>
+<br/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&layout=compact&hide_border=false&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&layout=compact&hide_border=false&include_all_commits=true&count_private=true"
+    alt="Top Languages"
+  />
+</picture>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=Byson94&theme=flat&no-frame=false&no-bg=true&margin-w=4"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Byson94&theme=flat&no-frame=false&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
