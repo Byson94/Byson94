@@ -63,7 +63,20 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    alt="Motivational Quote"
+  />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Byson94&icon=0&color=0)](https://visitcount.itsvg.in)
