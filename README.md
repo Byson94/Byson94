@@ -18,6 +18,9 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 [![Theom de](https://img.shields.io/badge/Theom%20DE-%231e1e1e.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)](https://github.com/AxOS-project/Theom/)
 
 # GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=Byson94&show_icons=true&theme=dark)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](#)
+---
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Byson94&show_icons=true&theme=dark"
@@ -46,6 +49,7 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 </picture>
 
 ## GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4)](#)
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4"
