@@ -25,4 +25,4 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Byson94&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](#)
 
 ## GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4)](#)
+[![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=false&margin-w=4)](#)
