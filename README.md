@@ -5,8 +5,7 @@
 - Currently exploring Python for automation and ethical hacking.
 
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Byson94.Byson94)](#)
-[![GitHub Followers](https://img.shields.io/github/followers/Byson94?label=Follow&style=flat)](https://github.com/Byson94?tab=followers)
-[![Location](https://img.shields.io/badge/Location-Endavour%20Land-black?logo=endeavouros&style=flat)](#)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Byson94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byson94wastaken@gmail.com) 
