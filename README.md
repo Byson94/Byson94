@@ -20,13 +20,11 @@ dev = DevProfile()
 dev.thank()
 ```
 
-<!---
-## Socials:
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1247151175594147852)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Byson94)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byson94wastaken@gmail.com)
--->
 
 ## Projects:
 
@@ -37,6 +35,8 @@ I've built a real-time chat app, a simplified Git CLI clone, and a custom deskto
 - **Theom DE:** https://github.com/AxOS-project/Theom
 
 ## Tools & Technologies
+
+<!-- I am sorry, I had to make this mess -->
 
 |                                                                                                                                   **Programming**                                                                                                                                   |                                                            **Web & Markup**                                                            |                                                                                                                     **Backend & DB**                                                                                                                      |                                                                         **DevOps**                                                                          |                                                              **Environment**                                                               |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
