@@ -4,6 +4,8 @@
 - I’m interested in computer science and Programming!
 - I’m currently learning python and ethical hacking.
 
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Byson94.Byson94)](#)
+
 ## Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Byson94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byson94wastaken@gmail.com) 
 
@@ -24,9 +26,3 @@ My notable works include making a chatapp, a git clone and custom desktop envior
 
 ## GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=true&margin-w=4)](#)
-
----
-![](https://visitor-badge.laobi.icu/badge?page_id=Byson94.Byson94)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/byson94) 
