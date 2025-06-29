@@ -11,7 +11,8 @@
 ## Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Byson94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byson94wastaken@gmail.com) 
 
-# Tools & Technologies I use:
+## Tools & Technologies
+
 ### Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -42,7 +43,7 @@
 ![Vim](https://skillicons.dev/icons?i=vim)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-# My works:
+## My works:
 I've built a real-time chat app, a simplified Git CLI clone, and a custom desktop environment for Linux.
 
 [![Biszbo chat app](https://img.shields.io/badge/Biszbo%20Chat%20App-%234ea94b.svg?style=for-the-badge&logo=googlechat&logoColor=white)](https://github.com/Byson94/Biszbo) 
