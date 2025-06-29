@@ -20,6 +20,7 @@ dev = DevProfile()
 dev.thank()
 ```
 
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-grey?logo=circle&logoColor=white)](https://byson94.github.io)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1247151175594147852)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Byson94_dev)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Byson94)
