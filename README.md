@@ -6,7 +6,7 @@
 ```python
 #!/usr/bin/env python3
 
-class DevProfile:
+class Profile:
     def __init__(self):
         self.name = "Nilay"
         self.alias = "Byson94"
@@ -16,8 +16,8 @@ class DevProfile:
     def thank(self):
       print("Thank you for visiting my README! I hope that you find my works interesting.")
 
-dev = DevProfile()
-dev.thank()
+me = DevProfile()
+me.thank()
 ```
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-grey?logo=circle&logoColor=white)](https://byson94.github.io)
