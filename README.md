@@ -16,7 +16,7 @@ class Profile:
     def thank(self):
       print("Thank you for visiting my README! I hope that you find my works interesting.")
 
-me = DevProfile()
+me = Profile()
 me.thank()
 ```
 
@@ -45,4 +45,9 @@ I've built a real-time chat app, a simplified Git CLI clone, and a custom deskto
 
 ## GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=false&margin-w=4)](#)
+<details>
+  <summary>GitHub Trophies</summary>
+
+  [![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=false&margin-w=4)](#)
+</details>
+
