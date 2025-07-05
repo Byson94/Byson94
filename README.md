@@ -29,34 +29,47 @@ me.thank()
 
 ## Projects:
 
-### [theom](https://github.com/AxOS-project/Theom)
-
+<details>
+  <summary><strong>Theom DE:</strong> https://github.com/AxOS-project/Theom</summary>
+<hr/>
 A minimal and fast desktop enviornment for linux with eligance and costomizability.
+<hr/>
+</details>
 
-### [xfstray](https://github.com/AxOS-project/xfsrtray)
-
+<details>
+  <summary><strong>xfsrtray:</strong> https://github.com/Byson94/xfsrtray</summary>
+<hr/>
 A minimal and customizable system tray tool for linux. It floats by default unlike traditional system trays which dock.
 It is made in rust using x11rb and provides a smooth experience without any flickers.
+<hr/>
+</details>
 
-### [gitclone](https://github.com/Byson94/gitclone)
-
+<details>
+  <summary><strong>GitClone:</strong> https://github.com/Byson94/gitclone</summary>
+<hr/>
 An educational tool I made to learn about Git. I wrote a full README that explains the whole [GitClone architecture](https://github.com/Byson94/gitclone/blob/main/architecture/README.md) which is basically as same as Git's.
 
 People who are interested in this, can use the resources I provided to learn more about Git.
 
-### [Biszbo Chat App](https://github.com/Byson94/Biszbo)
+<hr/>
+</details>
 
-A great chat app that I made to learn about databases and real time messaging. 
+<details>
+  <summary><strong>Biszbo Chat App:</strong> https://github.com/Byson94/Biszbo</summary>   
+<hr/>
+A great chat app that I made to learn about databases and real time messaging.
 
-> [!CAUTION]
 > This project has been archived and may not work as intended.
+
+<hr/>
+</details>
 
 ## Tools & Technologies
 
 <!-- I am sorry, I had to make this mess -->
 
-|                                                                                                                                   **Programming**                                                                                                                                   |                                                            **Web & Markup**                                                            |                                                                                                                     **Backend & DB**                                                                                                                      |                                                                         **DevOps**                                                                          |                                                              **Environment**                                                               |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                          **Programming**                                                                                                           |                                                                                  **Web & Markup**                                                                                   |                                                                                                                     **Backend & DB**                                                                                                                      |                                                                         **DevOps**                                                                          |                                                                                                                                    **Environment**                                                                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![Rust](https://skillicons.dev/icons?i=rust) ![Lua](https://skillicons.dev/icons?i=lua) ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=scss) ![Markdown](https://skillicons.dev/icons?i=md) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![NPM](https://skillicons.dev/icons?i=npm) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Supabase](https://skillicons.dev/icons?i=supabase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Linux](https://skillicons.dev/icons?i=linux) ![Arch](https://skillicons.dev/icons?i=arch) ![Mint](https://skillicons.dev/icons?i=mint) ![Vim](https://skillicons.dev/icons?i=vim) ![NeoVim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) |
 
 ## GitHub Trophies
@@ -64,6 +77,6 @@ A great chat app that I made to learn about databases and real time messaging.
 <details>
   <summary>GitHub Trophies</summary>
 
-  [![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=false&margin-w=4)](#)
-</details>
+[![](https://github-profile-trophy.vercel.app/?username=Byson94&theme=radical&no-frame=false&no-bg=false&margin-w=4)](#)
 
+</details>
