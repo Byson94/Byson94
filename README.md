@@ -29,11 +29,27 @@ me.thank()
 
 ## Projects:
 
-I've built a real-time chat app, a simplified Git CLI clone, and a custom desktop environment for Linux.
+### [theom](https://github.com/AxOS-project/Theom)
 
-- **Biszbo Chat App:** https://github.com/Byson94/Biszbo
-- **GitClone:** https://github.com/Byson94/gitclone
-- **Theom DE:** https://github.com/AxOS-project/Theom
+A minimal and fast desktop enviornment for linux with eligance and costomizability.
+
+### [xfstray](https://github.com/AxOS-project/xfsrtray)
+
+A minimal and customizable system tray tool for linux. It floats by default unlike traditional system trays which dock.
+It is made in rust using x11rb and provides a smooth experience without any flickers.
+
+### [gitclone](https://github.com/Byson94/gitclone)
+
+An educational tool I made to learn about Git. I wrote a full README that explains the whole [GitClone architecture](https://github.com/Byson94/gitclone/blob/main/architecture/README.md) which is basically as same as Git's.
+
+People who are interested in this, can use the resources I provided to learn more about Git.
+
+### [Biszbo Chat App](https://github.com/Byson94/Biszbo)
+
+A great chat app that I made to learn about databases and real time messaging. 
+
+> [!CAUTION]
+> This project has been archived and may not work as intended.
 
 ## Tools & Technologies
 
