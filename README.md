@@ -30,14 +30,14 @@ me.thank()
 ## Projects:
 
 <details>
-  <summary><strong>Theom DE:</strong> https://github.com/AxOS-project/Theom</summary>
+  <summary><strong>Theom DE:</strong> <a href="https://github.com/AxOS-project/Theom">https://github.com/AxOS-project/Theom<a/></summary>
 <hr/>
 A minimal and fast desktop enviornment for linux with eligance and costomizability.
 <hr/>
 </details>
 
 <details>
-  <summary><strong>xfsrtray:</strong> https://github.com/Byson94/xfsrtray</summary>
+  <summary><strong>xfsrtray:</strong> <a href="https://github.com/Byson94/xfsrtray">https://github.com/Byson94/xfsrtray<a/></summary>
 <hr/>
 A minimal and customizable system tray tool for linux. It floats by default unlike traditional system trays which dock.
 It is made in rust using x11rb and provides a smooth experience without any flickers.
@@ -45,9 +45,9 @@ It is made in rust using x11rb and provides a smooth experience without any flic
 </details>
 
 <details>
-  <summary><strong>GitClone:</strong> https://github.com/Byson94/gitclone</summary>
+  <summary><strong>GitClone:</strong> <a href="https://github.com/Byson94/gitclone">https://github.com/Byson94/gitclone<a/></summary>
 <hr/>
-An educational tool I made to learn about Git. I wrote a full README that explains the whole [GitClone architecture](https://github.com/Byson94/gitclone/blob/main/architecture/README.md) which is basically as same as Git's.
+An educational tool I made to learn about Git. I wrote a full README that explains the whole <a href="https://github.com/Byson94/gitclone/blob/main/architecture/README.md">GitClone architecture<a/> which is basically as same as Git's.
 
 People who are interested in this, can use the resources I provided to learn more about Git.
 
@@ -55,7 +55,7 @@ People who are interested in this, can use the resources I provided to learn mor
 </details>
 
 <details>
-  <summary><strong>Biszbo Chat App:</strong> https://github.com/Byson94/Biszbo</summary>   
+  <summary><strong>Biszbo Chat App:</strong> <a href="https://github.com/Byson94/Biszbo">https://github.com/Byson94/Biszbo<a/></summary>   
 <hr/>
 A great chat app that I made to learn about databases and real time messaging.
 
