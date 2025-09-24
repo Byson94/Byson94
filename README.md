@@ -14,7 +14,7 @@ class Profile:
         self.learning = ["Python (automation)", "Rust (speed & memory safety)"]
 
     def thank(self):
-      print("Thank you for visiting my README! I hope that you find my works interesting.")
+        print("Thank you for visiting my README! I hope that you find my works interesting.")
 
 me = Profile()
 me.thank()
