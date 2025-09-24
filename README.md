@@ -30,6 +30,13 @@ me.thank()
 ## Projects:
 
 <details>
+  <summary><strong>Ewwii:</strong> <a href="https://github.com/AxOS-project/Theom">https://github.com/Ewwii-sh/ewwii<a/></summary>
+<hr/>
+A widget system made for maximum flexibility, extensibility, and power.
+<hr/>
+</details>
+
+<details>
   <summary><strong>Theom DE:</strong> <a href="https://github.com/AxOS-project/Theom">https://github.com/AxOS-project/Theom<a/></summary>
 <hr/>
 A minimal and fast desktop enviornment for linux with eligance and costomizability.
