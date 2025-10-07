@@ -61,16 +61,6 @@ People who are interested in this, can use the resources I provided to learn mor
 <hr/>
 </details>
 
-<details>
-  <summary><strong>Biszbo Chat App:</strong> <a href="https://github.com/Byson94/Biszbo">https://github.com/Byson94/Biszbo<a/></summary>   
-<hr/>
-A great chat app that I made to learn about databases and real time messaging.
-
-> This project has been archived and may not work as intended.
-
-<hr/>
-</details>
-
 ## Tools & Technologies
 
 <!-- I am sorry, I had to make this mess -->
