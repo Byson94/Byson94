@@ -11,7 +11,7 @@ class Profile:
         self.name = "Nilay"
         self.alias = "Byson94"
         self.focus = ["Linux", "low-level tooling", "DevOps"]
-        self.learning = ["Python (automation)", "Rust (speed & memory safety)"]
+        self.learning = ["Docker (Debugging/Testing)"]
 
     def thank(self):
         print("Thank you for visiting my README! I hope that you find my works interesting.")
