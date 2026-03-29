@@ -1,6 +1,5 @@
 # <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="30"/> Hello There!
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Byson94.Byson94)](#)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ```python
