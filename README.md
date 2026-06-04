@@ -50,12 +50,9 @@ It is made in rust using x11rb and provides a smooth experience without any flic
 </details>
 
 <details>
-  <summary><strong>GitClone:</strong> <a href="https://github.com/Byson94/gitclone">https://github.com/Byson94/gitclone<a/></summary>
+  <summary><strong>Theom DE:</strong> <a href="https://github.com/AxOS-project/Theom">https://github.com/AxOS-project/Theom<a/></summary>
 <hr/>
-An educational tool I made to learn about Git. I wrote a full README that explains the whole <a href="https://github.com/Byson94/gitclone/blob/main/architecture/README.md">GitClone architecture<a/> which is basically as same as Git's.
-
-People who are interested in this, can use the resources I provided to learn more about Git.
-
+A minimal and fast desktop enviornment for linux with eligance and costomizability.
 <hr/>
 </details>
 
