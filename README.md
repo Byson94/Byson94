@@ -37,7 +37,7 @@ A widget system made for maximum flexibility, extensibility, and power.
 <details>
   <summary><strong>Nbcl:</strong> <a href="https://github.com/NBCL-Lang/nbcl">https://github.com/NBCL-Lang/nbcl<a/></summary>
 <hr/>
-A minimal and fast desktop enviornment for linux with eligance and costomizability.
+Configuration language with the power of imperative scripting.
 <hr/>
 </details>
 
