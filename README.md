@@ -7,7 +7,7 @@
 
 class Profile:
     def __init__(self):
-        self.name = "Nilay"
+        self.name = "Nilay Byju"
         self.alias = "Byson94"
         self.focus = ["Linux", "low-level tooling"]
         self.learning = ["Computer Science"]
